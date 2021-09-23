@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhilipicaltWebAPI", "PhilipicaltWebAPI\PhilipicaltWebAPI.csproj", "{58173BD9-77D2-490E-B128-157F03F02162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58173BD9-77D2-490E-B128-157F03F02162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58173BD9-77D2-490E-B128-157F03F02162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58173BD9-77D2-490E-B128-157F03F02162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58173BD9-77D2-490E-B128-157F03F02162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D04D774B-955A-4B64-9F30-F680E361D8B3}
+	EndGlobalSection
+EndGlobal
